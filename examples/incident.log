@@ -1,0 +1,400 @@
+2024-05-14T14:00:00.889Z INFO  api-7d9f5c8b46-m8n3p http: GET /api/v1/orders 200 45ms request_id=da94e3e8-ab73-738f-cf18-22ffbc688778
+2024-05-14T14:00:01.224Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/orders 200 11ms request_id=ffed9235-288b-c781-ae66-267594c9c950
+2024-05-14T14:00:01.685Z INFO  api-7d9f5c8b46-q7w2e http: GET /healthz 200 97ms request_id=80877b6f-71e1-f6d2-ef8a-cd128b4f2fc1
+2024-05-14T14:00:01.979Z DEBUG api-7d9f5c8b46-x2k4q auth: token for user 48712 validated
+2024-05-14T14:00:02.475Z DEBUG api-7d9f5c8b46-m8n3p auth: token for user 56523 validated
+2024-05-14T14:00:03.033Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/orders 200 61ms request_id=2c70501e-533c-9135-2d3d-854e061b9030
+2024-05-14T14:00:03.192Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/users 200 174ms request_id=e4c11ab2-fec3-f6b3-2e8d-4b8a8f54f8ce
+2024-05-14T14:00:03.668Z INFO  api-7d9f5c8b46-q7w2e http: GET /healthz 200 95ms request_id=5ca495fa-5a91-c89b-97ee-ab64ca2ce6bc
+2024-05-14T14:00:04.567Z DEBUG api-7d9f5c8b46-x2k4q auth: token for user 99828 validated
+2024-05-14T14:00:04.996Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/users 200 137ms request_id=ecc1cb63-4773-3e84-7d71-8d733ff98ff3
+2024-05-14T14:00:05.526Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/users 200 118ms request_id=59cc60b1-7604-e4b4-e736-95c3e652c71a
+2024-05-14T14:00:06.127Z INFO  api-7d9f5c8b46-q7w2e http: GET /healthz 200 118ms request_id=f0caeef0-38c8-9b38-a8ac-b5137c9260dc
+2024-05-14T14:00:06.479Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 325 keys in 18ms
+2024-05-14T14:00:07.290Z DEBUG api-7d9f5c8b46-m8n3p auth: token for user 40753 validated
+2024-05-14T14:00:08.128Z INFO  api-7d9f5c8b46-q7w2e http: GET /healthz 200 134ms request_id=96838b76-9da5-9b74-a6c3-181c81e220df
+2024-05-14T14:00:08.564Z INFO  api-7d9f5c8b46-m8n3p http: GET /api/v1/orders 200 133ms request_id=9f8e4ce0-af29-d115-ef24-bd625dd961e6
+2024-05-14T14:00:08.661Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/users 200 4ms request_id=ff3fe32a-30ff-c4ee-d0a7-bd04e85bfcdd
+2024-05-14T14:00:09.443Z INFO  api-7d9f5c8b46-q7w2e http: GET /healthz 200 14ms request_id=aeb6db2c-3a03-8a70-9779-ac1f45e9dd32
+2024-05-14T14:00:09.571Z INFO  api-7d9f5c8b46-m8n3p http: GET /api/v1/orders 200 64ms request_id=e16dce72-f18e-8598-35e1-f291d322a735
+2024-05-14T14:00:09.652Z INFO  api-7d9f5c8b46-x2k4q http: GET /healthz 200 16ms request_id=3fdf57cd-2c00-6497-5c37-47465cc36c27
+2024-05-14T14:00:10.360Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/orders 200 8ms request_id=0569c018-eb2b-5693-babb-7fbb0a76c196
+2024-05-14T14:00:10.762Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/orders 200 49ms request_id=62b47204-007e-e4fa-b105-d83e85e95186
+2024-05-14T14:00:11.385Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/orders 200 11ms request_id=9d8055a9-f03f-2d71-581d-8e830112ff0f
+2024-05-14T14:00:12.047Z INFO  api-7d9f5c8b46-m8n3p http: GET /api/v1/orders 200 88ms request_id=72daf0a5-4ef2-5c07-07e3-38687d1f7157
+2024-05-14T14:00:12.631Z INFO  api-7d9f5c8b46-x2k4q http: GET /healthz 200 69ms request_id=9f20dbb0-dcc9-3f0e-66df-e717c1731339
+2024-05-14T14:00:13.373Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/orders 200 171ms request_id=1a1fe3f9-d6a1-79fa-50f9-6cd4aff9261a
+2024-05-14T14:00:13.417Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/orders 200 151ms request_id=83ca1c10-7ca6-e706-6498-89c0c7f38608
+2024-05-14T14:00:13.772Z INFO  api-7d9f5c8b46-m8n3p http: GET /api/v1/users 200 69ms request_id=a73fa0b2-6b75-196c-f87e-b8a09b27ec71
+2024-05-14T14:00:13.810Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/orders 200 16ms request_id=29421c40-21b7-379f-0897-246a40c270b0
+2024-05-14T14:00:14.004Z INFO  api-7d9f5c8b46-x2k4q http: GET /healthz 200 132ms request_id=ef232a32-b545-9d83-fbc4-6f1aea990e94
+2024-05-14T14:00:14.056Z WARN  api-7d9f5c8b46-x2k4q http: slow request GET /api/v1/users took 2462ms
+2024-05-14T14:00:14.531Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/orders 200 60ms request_id=9fb8883a-ccda-6559-caa5-38a09fc9370d
+2024-05-14T14:00:15.277Z INFO  api-7d9f5c8b46-m8n3p http: GET /healthz 200 73ms request_id=26af8090-013c-3273-c02c-6b9586b4625b
+2024-05-14T14:00:15.333Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/orders 200 133ms request_id=1a16daff-3da9-5cd2-167b-75dfb948f82a
+2024-05-14T14:00:15.455Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/orders 200 57ms request_id=76e31f5a-ab63-ad02-854e-fa600641b4fa
+2024-05-14T14:00:15.939Z INFO  api-7d9f5c8b46-m8n3p http: GET /healthz 200 56ms request_id=f68ed036-c2b1-c26b-e814-7dc9af479f29
+2024-05-14T14:00:16.174Z INFO  api-7d9f5c8b46-m8n3p http: GET /api/v1/users 200 132ms request_id=0d1db848-9762-3f40-94c1-6aad0575665b
+2024-05-14T14:00:16.622Z DEBUG api-7d9f5c8b46-q7w2e auth: token for user 24753 validated
+2024-05-14T14:00:16.738Z INFO  api-7d9f5c8b46-m8n3p http: GET /api/v1/users 200 6ms request_id=1e5bfa6b-ebe4-2b82-f5ee-773384eaed1f
+2024-05-14T14:00:17.383Z INFO  api-7d9f5c8b46-m8n3p http: GET /healthz 200 80ms request_id=69897f7f-af70-8536-dfd5-349d04e0cb95
+2024-05-14T14:00:17.506Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/orders 200 6ms request_id=6921f4be-0f5b-8e2c-7390-7cfccfe330cd
+2024-05-14T14:00:18.178Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/orders 200 159ms request_id=062e2b10-48cb-c656-015d-313712e3db4c
+2024-05-14T14:00:18.579Z INFO  api-7d9f5c8b46-x2k4q http: GET /healthz 200 58ms request_id=1da2fee7-313e-72a8-7d8d-d474c146a389
+2024-05-14T14:00:19.184Z INFO  api-7d9f5c8b46-m8n3p http: GET /healthz 200 37ms request_id=e33fc312-6521-824f-584d-eda9c0eaa6f4
+2024-05-14T14:00:19.328Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/orders 200 159ms request_id=641f6abd-a418-067b-55a0-b0a6d99e3ea3
+2024-05-14T14:00:19.565Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/orders 200 170ms request_id=b9387e62-0b0d-dfd1-c6f7-5c81786a7648
+2024-05-14T14:00:20.307Z INFO  api-7d9f5c8b46-m8n3p http: GET /api/v1/users 200 38ms request_id=7bf4a206-44d9-6a45-5ffa-441acc790cf4
+2024-05-14T14:00:20.865Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 382 keys in 27ms
+2024-05-14T14:00:21.388Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 212 keys in 15ms
+2024-05-14T14:00:21.568Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/users 200 111ms request_id=eb2812ef-b2ff-0a7a-addc-220eb2140e47
+2024-05-14T14:00:21.674Z INFO  api-7d9f5c8b46-x2k4q http: GET /healthz 200 20ms request_id=8b966e9c-ff6c-6a1b-2d17-24ab5b269106
+2024-05-14T14:00:21.844Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 54 keys in 3ms
+2024-05-14T14:00:21.995Z WARN  api-7d9f5c8b46-m8n3p pool: retrying checkout attempt 1 of 5
+2024-05-14T14:00:22.740Z INFO  api-7d9f5c8b46-m8n3p http: GET /healthz 200 114ms request_id=1cb0a312-4978-1137-8624-857a2c2af60d
+2024-05-14T14:00:22.919Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/users 200 86ms request_id=83a0614f-b722-2606-3fa4-502f84396eee
+2024-05-14T14:00:23.202Z INFO  api-7d9f5c8b46-m8n3p http: GET /api/v1/orders 200 62ms request_id=5bca24ab-fec1-09fb-dfdd-25e96777406b
+2024-05-14T14:00:24.023Z INFO  api-7d9f5c8b46-x2k4q http: GET /healthz 200 121ms request_id=cf4a959b-0785-c4f2-b807-c3ef70f162c0
+2024-05-14T14:00:24.652Z INFO  api-7d9f5c8b46-x2k4q http: GET /healthz 200 102ms request_id=462198bf-7b82-6399-0db6-eaa3829a9993
+2024-05-14T14:00:25.086Z INFO  api-7d9f5c8b46-m8n3p http: GET /healthz 200 167ms request_id=8c2e111a-f644-26d6-5c2f-f4ed78f5b4d4
+2024-05-14T14:00:25.444Z INFO  api-7d9f5c8b46-x2k4q http: GET /healthz 200 59ms request_id=6718e995-3018-9f0d-9f0a-2d2e88692706
+2024-05-14T14:00:26.299Z INFO  api-7d9f5c8b46-x2k4q http: GET /healthz 200 82ms request_id=e81e5b84-b629-e04d-8608-e60f76ecabad
+2024-05-14T14:00:26.796Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/orders 200 105ms request_id=91bb840c-babe-20f3-376e-539af1777e34
+2024-05-14T14:00:27.436Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/orders 200 101ms request_id=cd3520db-c45a-2918-8ec6-f4d9d0cc8d52
+2024-05-14T14:00:27.660Z INFO  api-7d9f5c8b46-q7w2e http: GET /healthz 200 51ms request_id=234ba749-9ca7-2c90-cddf-5b307d63c569
+2024-05-14T14:00:27.688Z INFO  api-7d9f5c8b46-m8n3p http: GET /api/v1/users 200 66ms request_id=77930179-2c6e-e00e-90eb-93d08370e220
+2024-05-14T14:00:28.437Z INFO  api-7d9f5c8b46-m8n3p http: GET /api/v1/orders 200 2ms request_id=d6522e9e-887d-94b8-7c44-b0afe7da77d1
+2024-05-14T14:00:29.142Z INFO  api-7d9f5c8b46-m8n3p http: GET /healthz 200 174ms request_id=4456864b-7595-0e86-55bb-6485ec188c45
+2024-05-14T14:00:29.676Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/orders 200 90ms request_id=f042b30d-c010-c257-c276-bae22c779451
+2024-05-14T14:00:30.499Z WARN  api-7d9f5c8b46-m8n3p http: slow request GET /api/v1/users took 2382ms
+2024-05-14T14:00:31.159Z INFO  api-7d9f5c8b46-x2k4q http: GET /healthz 200 15ms request_id=fe0717e9-61b4-b18e-7fde-174c299e3274
+2024-05-14T14:00:31.654Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/orders 200 74ms request_id=0077450c-f787-a919-77a7-00618eb32fc8
+2024-05-14T14:00:32.049Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/users 200 115ms request_id=4ef54c3d-ad29-b40a-ded8-acf534548ceb
+2024-05-14T14:00:32.579Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/users 200 139ms request_id=13a3878d-4d7e-4925-ea29-fbeab60b22dc
+2024-05-14T14:00:32.863Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 180 keys in 20ms
+2024-05-14T14:00:33.552Z INFO  api-7d9f5c8b46-x2k4q http: GET /healthz 200 132ms request_id=98a00ec8-6420-d22a-35ea-b335a220e492
+2024-05-14T14:00:34.115Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 268 keys in 6ms
+2024-05-14T14:00:34.450Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/users 200 61ms request_id=f52f688e-0faf-60b1-4709-5b9b85cb3c08
+2024-05-14T14:00:34.584Z INFO  api-7d9f5c8b46-m8n3p http: GET /api/v1/users 200 56ms request_id=55afc8da-13cf-8a54-5b28-371b51821b27
+2024-05-14T14:00:35.072Z INFO  api-7d9f5c8b46-m8n3p http: GET /api/v1/users 200 76ms request_id=ebf7502d-2244-9afc-e502-bfe276082198
+2024-05-14T14:00:35.827Z INFO  api-7d9f5c8b46-x2k4q http: GET /healthz 200 71ms request_id=e3417131-197c-6566-28b3-3add538396fb
+2024-05-14T14:00:36.090Z INFO  api-7d9f5c8b46-m8n3p http: GET /healthz 200 49ms request_id=22a85496-cb8b-84c3-23e7-10f75b293bba
+2024-05-14T14:00:36.348Z INFO  api-7d9f5c8b46-q7w2e http: GET /healthz 200 98ms request_id=bfd9cb15-d2d2-2606-cef9-68ea6677726e
+2024-05-14T14:00:36.718Z INFO  api-7d9f5c8b46-q7w2e http: GET /healthz 200 130ms request_id=f2e3626a-bb6b-eb33-b0a2-befb94b31462
+2024-05-14T14:00:37.066Z INFO  api-7d9f5c8b46-q7w2e http: GET /healthz 200 163ms request_id=b763ae0f-faa4-472f-f832-c256c0e79ffd
+2024-05-14T14:00:37.384Z INFO  api-7d9f5c8b46-q7w2e http: GET /healthz 200 20ms request_id=7be76a6b-652a-5f19-4eff-77875e102c20
+2024-05-14T14:00:37.582Z INFO  api-7d9f5c8b46-m8n3p http: GET /api/v1/users 200 124ms request_id=2fbb3171-ec6b-7f48-e4c0-ae1b1673578d
+2024-05-14T14:00:37.924Z DEBUG api-7d9f5c8b46-x2k4q auth: token for user 4673 validated
+2024-05-14T14:00:38.050Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/users 200 168ms request_id=52053d31-8aed-7f05-0225-95796fb9bd2c
+2024-05-14T14:00:38.312Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 209 keys in 35ms
+2024-05-14T14:00:38.623Z INFO  api-7d9f5c8b46-m8n3p http: GET /api/v1/orders 200 82ms request_id=1854e551-7f9a-82a1-ed19-f88733bebf74
+2024-05-14T14:00:38.788Z INFO  api-7d9f5c8b46-m8n3p http: GET /api/v1/users 200 38ms request_id=16d1f9fd-400b-8cb0-5c43-f6356b9f2c93
+2024-05-14T14:00:39.158Z INFO  api-7d9f5c8b46-x2k4q http: GET /healthz 200 158ms request_id=5f6f1a13-f0aa-23af-5622-1de30bfe8410
+2024-05-14T14:00:39.841Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/orders 200 47ms request_id=718fe4da-6e05-e3ec-1024-cc6bd9cf937e
+2024-05-14T14:00:40.658Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/users 200 149ms request_id=a5f05235-5689-e724-1dcd-5cd2d86a6e08
+2024-05-14T14:00:41.464Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/users 200 15ms request_id=7d6639fb-794a-85d3-c43e-432c646df485
+2024-05-14T14:00:42.118Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 328 keys in 39ms
+2024-05-14T14:00:42.230Z INFO  api-7d9f5c8b46-q7w2e http: GET /healthz 200 128ms request_id=b1095a28-d73e-1a3d-66bb-46c8fd2a85fe
+2024-05-14T14:00:42.715Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/users 200 117ms request_id=738a72c6-1bb6-8e54-e0fc-66c40bd0f7fd
+2024-05-14T14:00:43.340Z INFO  api-7d9f5c8b46-q7w2e http: GET /healthz 200 46ms request_id=752b5ccd-4e49-9629-6482-9a5513cc5332
+2024-05-14T14:00:44.177Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/users 200 173ms request_id=066279ca-2c52-c981-3878-8e4859c39f5f
+2024-05-14T14:00:44.347Z INFO  api-7d9f5c8b46-m8n3p http: GET /api/v1/orders 200 168ms request_id=e612893e-dbb4-891a-0cbd-817c772644e7
+2024-05-14T14:00:44.853Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/users 200 145ms request_id=808d7c6d-b21c-d602-237d-7cf207c68737
+2024-05-14T14:00:45.428Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/orders 200 3ms request_id=566c1496-85db-c908-d072-0223d271c6b8
+2024-05-14T14:00:46.146Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/orders 200 97ms request_id=8a4637fc-21bb-411d-0062-d1247dfa74ee
+2024-05-14T14:00:46.285Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/users 200 15ms request_id=610ec605-a05a-31b3-3718-761e9db48e04
+2024-05-14T14:00:46.649Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/users 200 136ms request_id=ace8819c-eabf-af0b-c7ec-30f081d07fba
+2024-05-14T14:00:46.835Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/orders 200 55ms request_id=4c220031-33af-3675-6096-be9c2c689230
+2024-05-14T14:00:47.203Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/users 200 103ms request_id=cfbec85e-4c9e-a096-cc38-ae77504dfe80
+2024-05-14T14:00:47.324Z INFO  api-7d9f5c8b46-m8n3p http: GET /api/v1/users 200 74ms request_id=fca49736-7d29-ee23-c3ee-458a870283a9
+2024-05-14T14:00:47.630Z INFO  api-7d9f5c8b46-x2k4q http: GET /healthz 200 180ms request_id=07d66403-1a9e-9776-a881-bbac8c0a54ef
+2024-05-14T14:00:48.266Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/orders 200 51ms request_id=a524b7e0-0a02-af7d-946c-a71f6437957c
+2024-05-14T14:00:48.427Z INFO  api-7d9f5c8b46-m8n3p http: GET /healthz 200 123ms request_id=c5b061bc-bc8c-63ab-0c3c-11178a2872b7
+2024-05-14T14:00:49.289Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/orders 200 82ms request_id=ff44bab9-3225-7fb6-b064-85a609c5771f
+2024-05-14T14:00:49.419Z INFO  api-7d9f5c8b46-q7w2e http: GET /healthz 200 49ms request_id=fa5ca62c-179f-c984-f4b0-d259c34c11d3
+2024-05-14T14:00:50.142Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 332 keys in 19ms
+2024-05-14T14:00:50.375Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/users 200 72ms request_id=91a594ec-84b5-21cf-e707-7d0dd98c791a
+2024-05-14T14:00:50.464Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/users 200 10ms request_id=dcb1b267-a8c4-ef3a-4c23-91737492728a
+2024-05-14T14:00:50.608Z INFO  api-7d9f5c8b46-m8n3p http: GET /healthz 200 6ms request_id=42f018cd-554d-efa9-6b28-854136e287de
+2024-05-14T14:00:51.178Z INFO  api-7d9f5c8b46-q7w2e http: GET /healthz 200 53ms request_id=b17bfddb-20f5-e95e-c5ad-ae136e02164d
+2024-05-14T14:00:51.372Z INFO  api-7d9f5c8b46-m8n3p http: GET /api/v1/users 200 90ms request_id=412c1543-9cd8-fe4c-7926-6c53620312ec
+2024-05-14T14:00:52.021Z INFO  api-7d9f5c8b46-m8n3p http: GET /api/v1/users 200 51ms request_id=92c45118-d99b-bc75-7827-39e5c15b6914
+2024-05-14T14:00:52.386Z WARN  api-7d9f5c8b46-x2k4q pool: connection pool exhausted (49/50 in use), 80 waiters
+2024-05-14T14:00:53.047Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 325 keys in 37ms
+2024-05-14T14:00:53.198Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/users 200 139ms request_id=191d950b-4c96-8ccb-d2c1-6af2d63ca326
+2024-05-14T14:00:53.230Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/orders 200 82ms request_id=4182ba9d-888a-4b05-51a5-cacd0efe0d69
+2024-05-14T14:00:54.061Z INFO  api-7d9f5c8b46-m8n3p http: GET /api/v1/users 200 20ms request_id=b630fafb-d55f-b30d-787b-d7c36b5aa616
+2024-05-14T14:00:54.099Z WARN  api-7d9f5c8b46-q7w2e pool: connection pool exhausted (48/50 in use), 30 waiters
+2024-05-14T14:00:54.273Z WARN  api-7d9f5c8b46-m8n3p pool: connection pool exhausted (50/50 in use), 11 waiters
+2024-05-14T14:00:54.941Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/users 200 23ms request_id=c9d8ca21-cd00-651c-7a92-bb167edae2a9
+2024-05-14T14:00:55.204Z WARN  api-7d9f5c8b46-m8n3p pool: connection pool exhausted (48/50 in use), 28 waiters
+2024-05-14T14:00:55.857Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/users 200 159ms request_id=682175f0-8623-c908-6453-b13cb3c5268d
+2024-05-14T14:00:56.117Z INFO  api-7d9f5c8b46-x2k4q http: GET /healthz 200 68ms request_id=f176c06a-236b-4e8a-3fd9-cf17aa67892b
+2024-05-14T14:00:56.773Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/users 200 118ms request_id=f6076043-798a-1705-651f-95c3644d9ee8
+2024-05-14T14:00:57.182Z WARN  api-7d9f5c8b46-x2k4q pool: connection pool exhausted (48/50 in use), 10 waiters
+2024-05-14T14:00:57.747Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/orders 200 141ms request_id=63224d94-0dc7-6925-00ea-cc9cacad6e51
+2024-05-14T14:00:58.491Z WARN  api-7d9f5c8b46-x2k4q pool: connection pool exhausted (50/50 in use), 37 waiters
+2024-05-14T14:00:58.614Z WARN  api-7d9f5c8b46-m8n3p pool: connection pool exhausted (50/50 in use), 66 waiters
+2024-05-14T14:00:59.228Z WARN  api-7d9f5c8b46-m8n3p pool: connection pool exhausted (50/50 in use), 31 waiters
+2024-05-14T14:00:59.534Z WARN  api-7d9f5c8b46-m8n3p pool: connection pool exhausted (48/50 in use), 19 waiters
+2024-05-14T14:01:00.218Z WARN  api-7d9f5c8b46-m8n3p pool: connection pool exhausted (48/50 in use), 71 waiters
+2024-05-14T14:01:00.287Z INFO  api-7d9f5c8b46-m8n3p http: GET /healthz 200 28ms request_id=162b7c71-8a76-ba4a-8ed6-25f6a4387624
+2024-05-14T14:01:01.001Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 372 keys in 9ms
+2024-05-14T14:01:01.055Z ERROR api-7d9f5c8b46-q7w2e http: POST /api/v1/orders 503 request_id=f1c475d7-0c0a-97b3-7924-e06f44afcdc8 upstream unavailable
+2024-05-14T14:01:01.644Z ERROR api-7d9f5c8b46-m8n3p http: POST /api/v1/orders 503 request_id=9b2114fd-18ea-272a-ec2e-4351afb36e73 upstream unavailable
+2024-05-14T14:01:02.032Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.3.205:5432 timed out after 5325ms
+2024-05-14T14:01:02.334Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 270 keys in 39ms
+2024-05-14T14:01:02.507Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.4.216:5432 timed out after 5324ms
+2024-05-14T14:01:02.535Z ERROR api-7d9f5c8b46-q7w2e http: POST /api/v1/orders 503 request_id=a98a2393-dcb6-49f4-0cfa-6a78b720408d upstream unavailable
+2024-05-14T14:01:02.633Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 322 keys in 28ms
+2024-05-14T14:01:03.091Z ERROR api-7d9f5c8b46-x2k4q http: POST /api/v1/orders 503 request_id=0411eff8-0b84-1a23-9d1c-48ce299fdd29 upstream unavailable
+2024-05-14T14:01:03.718Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 190 keys in 12ms
+2024-05-14T14:01:04.039Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.2.146:5432 timed out after 5112ms
+2024-05-14T14:01:04.471Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.1.239:5432 timed out after 5305ms
+2024-05-14T14:01:04.560Z ERROR api-7d9f5c8b46-q7w2e db: connection to 10.0.2.28:5432 timed out after 5003ms
+2024-05-14T14:01:05.288Z ERROR api-7d9f5c8b46-q7w2e http: POST /api/v1/orders 503 request_id=a6d221a1-94fe-3fa0-47f0-d6bdda56bb51 upstream unavailable
+2024-05-14T14:01:05.534Z ERROR api-7d9f5c8b46-q7w2e db: connection to 10.0.4.111:5432 timed out after 5400ms
+2024-05-14T14:01:05.683Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.4.190:5432 timed out after 5190ms
+2024-05-14T14:01:05.757Z WARN  api-7d9f5c8b46-q7w2e pool: retrying checkout attempt 1 of 5
+2024-05-14T14:01:06.305Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 316 keys in 29ms
+2024-05-14T14:01:06.491Z WARN  api-7d9f5c8b46-x2k4q pool: retrying checkout attempt 3 of 5
+2024-05-14T14:01:06.660Z ERROR api-7d9f5c8b46-q7w2e db: connection to 10.0.2.40:5432 timed out after 5326ms
+2024-05-14T14:01:07.102Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 236 keys in 31ms
+2024-05-14T14:01:07.597Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.3.200:5432 timed out after 5112ms
+2024-05-14T14:01:07.978Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 212 keys in 40ms
+2024-05-14T14:01:08.853Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.1.234:5432 timed out after 5280ms
+2024-05-14T14:01:09.361Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 148 keys in 16ms
+2024-05-14T14:01:09.858Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 277 keys in 40ms
+2024-05-14T14:01:10.350Z DEBUG api-7d9f5c8b46-x2k4q auth: token for user 73888 validated
+2024-05-14T14:01:11.237Z INFO  api-7d9f5c8b46-m8n3p http: GET /api/v1/users 200 94ms request_id=af3e8492-8160-5e4f-1c17-b2a06b795aa8
+2024-05-14T14:01:11.508Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 347 keys in 25ms
+2024-05-14T14:01:11.647Z WARN  api-7d9f5c8b46-m8n3p pool: retrying checkout attempt 5 of 5
+2024-05-14T14:01:12.200Z WARN  api-7d9f5c8b46-q7w2e pool: retrying checkout attempt 4 of 5
+2024-05-14T14:01:12.683Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 366 keys in 24ms
+2024-05-14T14:01:13.520Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 85 keys in 15ms
+2024-05-14T14:01:14.220Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 219 keys in 29ms
+2024-05-14T14:01:14.750Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 98 keys in 27ms
+2024-05-14T14:01:15.040Z DEBUG api-7d9f5c8b46-q7w2e auth: token for user 54073 validated
+2024-05-14T14:01:15.366Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 353 keys in 21ms
+2024-05-14T14:01:16.069Z ERROR api-7d9f5c8b46-q7w2e db: connection to 10.0.1.54:5432 timed out after 5232ms
+2024-05-14T14:01:16.192Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.3.156:5432 timed out after 5162ms
+2024-05-14T14:01:16.962Z ERROR api-7d9f5c8b46-q7w2e http: POST /api/v1/orders 503 request_id=c86afdde-535d-c1d4-ecc1-1158d5611639 upstream unavailable
+2024-05-14T14:01:17.064Z INFO  api-7d9f5c8b46-m8n3p http: GET /api/v1/users 200 160ms request_id=e2945106-71d6-7bbb-3c40-5788eb4af358
+2024-05-14T14:01:17.180Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 25 keys in 20ms
+2024-05-14T14:01:17.705Z ERROR api-7d9f5c8b46-q7w2e db: connection to 10.0.1.4:5432 timed out after 5168ms
+2024-05-14T14:01:18.140Z WARN  api-7d9f5c8b46-q7w2e pool: retrying checkout attempt 1 of 5
+2024-05-14T14:01:18.653Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 114 keys in 15ms
+2024-05-14T14:01:19.431Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 180 keys in 20ms
+2024-05-14T14:01:20.250Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 316 keys in 32ms
+2024-05-14T14:01:20.746Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 267 keys in 14ms
+2024-05-14T14:01:21.352Z ERROR api-7d9f5c8b46-m8n3p http: POST /api/v1/orders 503 request_id=cd234c98-fb2c-b2bd-5f2c-9ed8d86dec35 upstream unavailable
+2024-05-14T14:01:21.557Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 342 keys in 40ms
+2024-05-14T14:01:21.807Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.2.103:5432 timed out after 5136ms
+2024-05-14T14:01:22.428Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.1.105:5432 timed out after 5392ms
+2024-05-14T14:01:22.932Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 102 keys in 13ms
+2024-05-14T14:01:23.696Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 258 keys in 40ms
+2024-05-14T14:01:23.722Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 117 keys in 14ms
+2024-05-14T14:01:23.743Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 336 keys in 13ms
+2024-05-14T14:01:24.521Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.1.4:5432 timed out after 5184ms
+2024-05-14T14:01:24.659Z ERROR api-7d9f5c8b46-q7w2e http: POST /api/v1/orders 503 request_id=1f27d6f4-6164-9ba4-78fc-4de05d73b377 upstream unavailable
+2024-05-14T14:01:24.756Z DEBUG api-7d9f5c8b46-x2k4q auth: token for user 19729 validated
+2024-05-14T14:01:25.600Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 338 keys in 5ms
+2024-05-14T14:01:25.893Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.1.235:5432 timed out after 5269ms
+2024-05-14T14:01:26.637Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 23 keys in 36ms
+2024-05-14T14:01:27.230Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.2.49:5432 timed out after 5300ms
+2024-05-14T14:01:27.565Z WARN  api-7d9f5c8b46-x2k4q pool: retrying checkout attempt 1 of 5
+2024-05-14T14:01:28.298Z ERROR api-7d9f5c8b46-x2k4q http: POST /api/v1/orders 503 request_id=da7c99fe-3a77-0d14-fba8-0ccb276a2f53 upstream unavailable
+2024-05-14T14:01:28.951Z ERROR api-7d9f5c8b46-m8n3p http: POST /api/v1/orders 503 request_id=1bacbe2e-a521-8666-b305-b290cdeb1a40 upstream unavailable
+2024-05-14T14:01:29.841Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.1.84:5432 timed out after 5060ms
+2024-05-14T14:01:30.140Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.2.91:5432 timed out after 5067ms
+2024-05-14T14:01:30.593Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 168 keys in 36ms
+2024-05-14T14:01:31.392Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.3.165:5432 timed out after 5076ms
+2024-05-14T14:01:32.148Z ERROR api-7d9f5c8b46-q7w2e db: connection to 10.0.1.37:5432 timed out after 5377ms
+2024-05-14T14:01:32.673Z WARN  api-7d9f5c8b46-q7w2e pool: retrying checkout attempt 2 of 5
+2024-05-14T14:01:33.185Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 42 keys in 10ms
+2024-05-14T14:01:33.961Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.2.92:5432 timed out after 5364ms
+2024-05-14T14:01:34.140Z DEBUG api-7d9f5c8b46-q7w2e auth: token for user 89916 validated
+2024-05-14T14:01:34.708Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.2.208:5432 timed out after 5171ms
+2024-05-14T14:01:34.820Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 233 keys in 14ms
+2024-05-14T14:01:35.260Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 181 keys in 28ms
+2024-05-14T14:01:35.789Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 104 keys in 34ms
+2024-05-14T14:01:35.929Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 74 keys in 25ms
+2024-05-14T14:01:36.097Z WARN  api-7d9f5c8b46-q7w2e pool: retrying checkout attempt 2 of 5
+2024-05-14T14:01:36.765Z ERROR api-7d9f5c8b46-q7w2e db: connection to 10.0.1.24:5432 timed out after 5263ms
+2024-05-14T14:01:37.639Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 100 keys in 13ms
+2024-05-14T14:01:38.336Z WARN  api-7d9f5c8b46-q7w2e pool: retrying checkout attempt 1 of 5
+2024-05-14T14:01:38.906Z DEBUG api-7d9f5c8b46-x2k4q auth: token for user 66875 validated
+2024-05-14T14:01:39.168Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.4.118:5432 timed out after 5054ms
+2024-05-14T14:01:39.509Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.1.102:5432 timed out after 5009ms
+2024-05-14T14:01:40.105Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.3.143:5432 timed out after 5123ms
+2024-05-14T14:01:40.470Z WARN  api-7d9f5c8b46-x2k4q pool: retrying checkout attempt 2 of 5
+2024-05-14T14:01:40.661Z DEBUG api-7d9f5c8b46-q7w2e auth: token for user 23484 validated
+2024-05-14T14:01:41.082Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.3.197:5432 timed out after 5218ms
+2024-05-14T14:01:41.576Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.1.178:5432 timed out after 5049ms
+2024-05-14T14:01:42.449Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.1.51:5432 timed out after 5194ms
+2024-05-14T14:01:43.307Z ERROR api-7d9f5c8b46-x2k4q http: POST /api/v1/orders 503 request_id=4429a40d-da6a-0f02-44b4-28652ca48722 upstream unavailable
+2024-05-14T14:01:44.156Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.3.81:5432 timed out after 5288ms
+2024-05-14T14:01:44.602Z WARN  api-7d9f5c8b46-m8n3p pool: retrying checkout attempt 3 of 5
+2024-05-14T14:01:45.024Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.3.204:5432 timed out after 5295ms
+2024-05-14T14:01:45.515Z INFO  api-7d9f5c8b46-q7w2e http: GET /healthz 200 84ms request_id=02042eb3-9034-0be2-126f-949f8a0ae785
+2024-05-14T14:01:45.796Z DEBUG api-7d9f5c8b46-q7w2e auth: token for user 61296 validated
+2024-05-14T14:01:46.557Z ERROR api-7d9f5c8b46-q7w2e db: connection to 10.0.4.136:5432 timed out after 5327ms
+2024-05-14T14:01:46.862Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.3.210:5432 timed out after 5054ms
+2024-05-14T14:01:47.634Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.4.34:5432 timed out after 5261ms
+2024-05-14T14:01:47.849Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/orders 200 80ms request_id=c0f368af-2433-411f-74aa-b072d06924de
+2024-05-14T14:01:48.396Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.2.58:5432 timed out after 5283ms
+2024-05-14T14:01:48.459Z WARN  api-7d9f5c8b46-x2k4q pool: retrying checkout attempt 4 of 5
+2024-05-14T14:01:49.038Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 92 keys in 26ms
+2024-05-14T14:01:49.868Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.2.130:5432 timed out after 5130ms
+2024-05-14T14:01:50.452Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.2.8:5432 timed out after 5330ms
+2024-05-14T14:01:51.106Z DEBUG api-7d9f5c8b46-q7w2e auth: token for user 95033 validated
+2024-05-14T14:01:51.178Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.2.143:5432 timed out after 5165ms
+2024-05-14T14:01:51.497Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 33 keys in 30ms
+2024-05-14T14:01:51.860Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.2.96:5432 timed out after 5131ms
+2024-05-14T14:01:52.641Z WARN  api-7d9f5c8b46-q7w2e pool: retrying checkout attempt 5 of 5
+2024-05-14T14:01:52.917Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.1.108:5432 timed out after 5334ms
+2024-05-14T14:01:53.168Z ERROR api-7d9f5c8b46-q7w2e db: connection to 10.0.4.36:5432 timed out after 5216ms
+2024-05-14T14:01:53.899Z WARN  api-7d9f5c8b46-x2k4q http: slow request GET /api/v1/users took 2345ms
+2024-05-14T14:01:54.096Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 224 keys in 5ms
+2024-05-14T14:01:54.660Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 25 keys in 24ms
+2024-05-14T14:01:54.899Z WARN  api-7d9f5c8b46-q7w2e pool: retrying checkout attempt 2 of 5
+2024-05-14T14:01:55.360Z DEBUG api-7d9f5c8b46-q7w2e auth: token for user 91193 validated
+2024-05-14T14:01:55.983Z ERROR api-7d9f5c8b46-x2k4q http: POST /api/v1/orders 503 request_id=b881ae1a-05ef-4fe1-3496-99fa13b5f0f0 upstream unavailable
+2024-05-14T14:01:56.545Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 25 keys in 10ms
+2024-05-14T14:01:56.594Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.1.166:5432 timed out after 5300ms
+2024-05-14T14:01:56.634Z DEBUG api-7d9f5c8b46-m8n3p auth: token for user 14935 validated
+2024-05-14T14:01:57.050Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 334 keys in 12ms
+2024-05-14T14:01:57.491Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.2.233:5432 timed out after 5316ms
+2024-05-14T14:01:58.244Z WARN  api-7d9f5c8b46-x2k4q pool: retrying checkout attempt 5 of 5
+2024-05-14T14:01:58.547Z ERROR api-7d9f5c8b46-q7w2e db: connection to 10.0.2.14:5432 timed out after 5110ms
+2024-05-14T14:01:59.405Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 100 keys in 40ms
+2024-05-14T14:02:00.257Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.2.167:5432 timed out after 5123ms
+2024-05-14T14:02:00.565Z ERROR api-7d9f5c8b46-x2k4q http: POST /api/v1/orders 503 request_id=a25623f6-348f-5610-a5b5-6ce5e05bd41a upstream unavailable
+2024-05-14T14:02:00.719Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 64 keys in 24ms
+2024-05-14T14:02:01.242Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 119 keys in 25ms
+2024-05-14T14:02:01.552Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.3.169:5432 timed out after 5190ms
+2024-05-14T14:02:01.871Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/users 200 12ms request_id=16eb9f11-f9bd-a380-4f7c-0ee1c3dfb3e3
+2024-05-14T14:02:02.377Z INFO  api-7d9f5c8b46-q7w2e http: GET /api/v1/orders 200 147ms request_id=e8317ff5-f6ad-de3b-497d-34185ac0362b
+2024-05-14T14:02:03.035Z WARN  api-7d9f5c8b46-q7w2e pool: retrying checkout attempt 4 of 5
+2024-05-14T14:02:03.715Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 105 keys in 39ms
+2024-05-14T14:02:03.973Z DEBUG api-7d9f5c8b46-q7w2e auth: token for user 18335 validated
+2024-05-14T14:02:04.059Z WARN  api-7d9f5c8b46-q7w2e pool: retrying checkout attempt 2 of 5
+2024-05-14T14:02:04.570Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.2.124:5432 timed out after 5191ms
+2024-05-14T14:02:05.125Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 112 keys in 7ms
+2024-05-14T14:02:05.491Z ERROR api-7d9f5c8b46-m8n3p http: POST /api/v1/orders 503 request_id=42436053-96ca-da02-3f4d-f7ed233b9d70 upstream unavailable
+2024-05-14T14:02:05.993Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 383 keys in 3ms
+2024-05-14T14:02:06.020Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.1.204:5432 timed out after 5226ms
+2024-05-14T14:02:06.554Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 134 keys in 5ms
+2024-05-14T14:02:06.607Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.1.108:5432 timed out after 5288ms
+2024-05-14T14:02:07.234Z WARN  api-7d9f5c8b46-q7w2e pool: retrying checkout attempt 1 of 5
+2024-05-14T14:02:08.024Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 98 keys in 8ms
+2024-05-14T14:02:08.248Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 375 keys in 18ms
+2024-05-14T14:02:08.799Z DEBUG api-7d9f5c8b46-m8n3p auth: token for user 15863 validated
+2024-05-14T14:02:09.610Z WARN  api-7d9f5c8b46-x2k4q pool: retrying checkout attempt 2 of 5
+2024-05-14T14:02:09.831Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 100 keys in 2ms
+2024-05-14T14:02:09.857Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 245 keys in 30ms
+2024-05-14T14:02:09.895Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 11 keys in 15ms
+2024-05-14T14:02:10.752Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 46 keys in 16ms
+2024-05-14T14:02:11.482Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.2.247:5432 timed out after 5099ms
+2024-05-14T14:02:11.588Z WARN  api-7d9f5c8b46-m8n3p pool: retrying checkout attempt 4 of 5
+2024-05-14T14:02:11.727Z ERROR api-7d9f5c8b46-q7w2e db: connection to 10.0.2.225:5432 timed out after 5165ms
+2024-05-14T14:02:12.132Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.2.221:5432 timed out after 5251ms
+2024-05-14T14:02:12.605Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.3.184:5432 timed out after 5030ms
+2024-05-14T14:02:13.095Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.2.209:5432 timed out after 5283ms
+2024-05-14T14:02:13.532Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 347 keys in 34ms
+2024-05-14T14:02:13.964Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.3.79:5432 timed out after 5383ms
+2024-05-14T14:02:14.414Z WARN  api-7d9f5c8b46-q7w2e pool: retrying checkout attempt 1 of 5
+2024-05-14T14:02:15.140Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.1.72:5432 timed out after 5274ms
+2024-05-14T14:02:15.876Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.1.175:5432 timed out after 5351ms
+2024-05-14T14:02:16.035Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 40 keys in 14ms
+2024-05-14T14:02:16.093Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 140 keys in 35ms
+2024-05-14T14:02:16.895Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 264 keys in 23ms
+2024-05-14T14:02:17.605Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.2.28:5432 timed out after 5213ms
+2024-05-14T14:02:17.919Z ERROR api-7d9f5c8b46-q7w2e db: connection to 10.0.2.199:5432 timed out after 5136ms
+2024-05-14T14:02:17.998Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 360 keys in 31ms
+2024-05-14T14:02:18.554Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 399 keys in 2ms
+2024-05-14T14:02:18.613Z ERROR api-7d9f5c8b46-q7w2e http: POST /api/v1/orders 503 request_id=87c3356d-f1f2-83f7-a666-4e209f9ee3d5 upstream unavailable
+2024-05-14T14:02:18.854Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 242 keys in 30ms
+2024-05-14T14:02:19.413Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 295 keys in 12ms
+2024-05-14T14:02:19.739Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 376 keys in 35ms
+2024-05-14T14:02:20.630Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.1.87:5432 timed out after 5371ms
+2024-05-14T14:02:21.451Z ERROR api-7d9f5c8b46-q7w2e db: connection to 10.0.3.162:5432 timed out after 5203ms
+2024-05-14T14:02:21.802Z WARN  api-7d9f5c8b46-q7w2e pool: retrying checkout attempt 1 of 5
+2024-05-14T14:02:21.890Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 309 keys in 22ms
+2024-05-14T14:02:22.630Z ERROR api-7d9f5c8b46-x2k4q http: POST /api/v1/orders 503 request_id=30eb686e-0c96-9c10-986d-ce9ddfd7ec40 upstream unavailable
+2024-05-14T14:02:23.020Z ERROR api-7d9f5c8b46-q7w2e db: connection to 10.0.4.103:5432 timed out after 5309ms
+2024-05-14T14:02:23.193Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 342 keys in 27ms
+2024-05-14T14:02:23.282Z ERROR api-7d9f5c8b46-q7w2e http: POST /api/v1/orders 503 request_id=432a7faa-1ad5-b456-3efa-5ee78407636e upstream unavailable
+2024-05-14T14:02:24.164Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 264 keys in 18ms
+2024-05-14T14:02:24.660Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 179 keys in 36ms
+2024-05-14T14:02:24.683Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 393 keys in 39ms
+2024-05-14T14:02:25.459Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 218 keys in 28ms
+2024-05-14T14:02:25.910Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 153 keys in 27ms
+2024-05-14T14:02:26.706Z DEBUG api-7d9f5c8b46-x2k4q auth: token for user 34329 validated
+2024-05-14T14:02:26.754Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.3.57:5432 timed out after 5110ms
+2024-05-14T14:02:27.614Z ERROR api-7d9f5c8b46-q7w2e db: connection to 10.0.3.77:5432 timed out after 5173ms
+2024-05-14T14:02:27.684Z ERROR api-7d9f5c8b46-q7w2e db: connection to 10.0.3.48:5432 timed out after 5337ms
+2024-05-14T14:02:28.546Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.4.133:5432 timed out after 5281ms
+2024-05-14T14:02:29.446Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 160 keys in 37ms
+2024-05-14T14:02:29.799Z INFO  api-7d9f5c8b46-q7w2e http: GET /healthz 200 121ms request_id=157061dd-631b-3a67-cfe3-39b56eab31bb
+2024-05-14T14:02:30.223Z ERROR api-7d9f5c8b46-q7w2e db: connection to 10.0.2.29:5432 timed out after 5164ms
+2024-05-14T14:02:30.646Z WARN  api-7d9f5c8b46-q7w2e pool: retrying checkout attempt 5 of 5
+2024-05-14T14:02:30.748Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 241 keys in 40ms
+2024-05-14T14:02:31.633Z WARN  api-7d9f5c8b46-m8n3p pool: retrying checkout attempt 1 of 5
+2024-05-14T14:02:32.213Z WARN  api-7d9f5c8b46-q7w2e pool: retrying checkout attempt 3 of 5
+2024-05-14T14:02:32.879Z WARN  api-7d9f5c8b46-q7w2e pool: retrying checkout attempt 2 of 5
+2024-05-14T14:02:33.519Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 98 keys in 17ms
+2024-05-14T14:02:34.269Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.4.201:5432 timed out after 5159ms
+2024-05-14T14:02:34.695Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 230 keys in 33ms
+2024-05-14T14:02:34.989Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 148 keys in 1ms
+2024-05-14T14:02:35.280Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.1.52:5432 timed out after 5011ms
+2024-05-14T14:02:35.503Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.2.195:5432 timed out after 5347ms
+2024-05-14T14:02:36.235Z ERROR api-7d9f5c8b46-m8n3p http: POST /api/v1/orders 503 request_id=0c86501a-0596-70d3-2059-2c8b963139f8 upstream unavailable
+2024-05-14T14:02:36.359Z ERROR api-7d9f5c8b46-q7w2e db: connection to 10.0.1.99:5432 timed out after 5158ms
+2024-05-14T14:02:36.520Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.1.174:5432 timed out after 5215ms
+2024-05-14T14:02:37.388Z ERROR api-7d9f5c8b46-x2k4q http: POST /api/v1/orders 503 request_id=24b7d3b3-f297-9dd3-73e8-bffe35df2f21 upstream unavailable
+2024-05-14T14:02:38.113Z INFO  api-7d9f5c8b46-m8n3p http: GET /api/v1/users 200 124ms request_id=9ed4a603-d081-72a9-4500-a10cb4d12500
+2024-05-14T14:02:38.364Z WARN  api-7d9f5c8b46-x2k4q pool: retrying checkout attempt 4 of 5
+2024-05-14T14:02:39.035Z ERROR api-7d9f5c8b46-q7w2e db: connection to 10.0.4.223:5432 timed out after 5192ms
+2024-05-14T14:02:39.083Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.3.82:5432 timed out after 5111ms
+2024-05-14T14:02:39.690Z DEBUG api-7d9f5c8b46-q7w2e auth: token for user 55712 validated
+2024-05-14T14:02:39.761Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.2.89:5432 timed out after 5146ms
+2024-05-14T14:02:40.606Z INFO  api-7d9f5c8b46-x2k4q http: GET /healthz 200 162ms request_id=41230e5b-8033-da71-1a4f-722b1352bf08
+2024-05-14T14:02:41.168Z WARN  api-7d9f5c8b46-q7w2e pool: retrying checkout attempt 2 of 5
+2024-05-14T14:02:42.062Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.3.136:5432 timed out after 5248ms
+2024-05-14T14:02:42.859Z WARN  api-7d9f5c8b46-q7w2e pool: retrying checkout attempt 5 of 5
+2024-05-14T14:02:43.226Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.4.115:5432 timed out after 5014ms
+2024-05-14T14:02:43.678Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 103 keys in 15ms
+2024-05-14T14:02:44.308Z ERROR api-7d9f5c8b46-m8n3p http: POST /api/v1/orders 503 request_id=e5fc36e0-220a-ef08-71b7-095248d3ccf6 upstream unavailable
+2024-05-14T14:02:44.610Z ERROR api-7d9f5c8b46-m8n3p http: POST /api/v1/orders 503 request_id=aa6bfb4d-aef4-a5a9-e3f6-2db4aecd3cbc upstream unavailable
+2024-05-14T14:02:44.662Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.2.151:5432 timed out after 5296ms
+2024-05-14T14:02:45.124Z ERROR api-7d9f5c8b46-x2k4q http: POST /api/v1/orders 503 request_id=23b5830a-ad4b-03e1-4570-235dcd1640c6 upstream unavailable
+2024-05-14T14:02:45.938Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 318 keys in 16ms
+2024-05-14T14:02:46.610Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 359 keys in 35ms
+2024-05-14T14:02:47.341Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 13 keys in 35ms
+2024-05-14T14:02:47.566Z WARN  api-7d9f5c8b46-x2k4q http: slow request GET /api/v1/users took 2132ms
+2024-05-14T14:02:48.248Z ERROR api-7d9f5c8b46-m8n3p http: POST /api/v1/orders 503 request_id=c177f3a2-97b1-df0b-9951-8ddf2e0667d2 upstream unavailable
+2024-05-14T14:02:48.575Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 89 keys in 38ms
+2024-05-14T14:02:49.239Z ERROR api-7d9f5c8b46-q7w2e db: connection to 10.0.4.236:5432 timed out after 5010ms
+2024-05-14T14:02:49.648Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 103 keys in 16ms
+2024-05-14T14:02:50.355Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.3.59:5432 timed out after 5040ms
+2024-05-14T14:02:50.687Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.4.26:5432 timed out after 5356ms
+2024-05-14T14:02:50.803Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.2.109:5432 timed out after 5290ms
+2024-05-14T14:02:51.544Z ERROR api-7d9f5c8b46-m8n3p db: connection to 10.0.2.20:5432 timed out after 5070ms
+2024-05-14T14:02:52.428Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 381 keys in 13ms
+2024-05-14T14:02:52.669Z ERROR api-7d9f5c8b46-m8n3p http: POST /api/v1/orders 503 request_id=e9bb710d-47b9-117e-cfa3-165a5bb5e9c5 upstream unavailable
+2024-05-14T14:02:52.874Z WARN  api-7d9f5c8b46-q7w2e pool: retrying checkout attempt 5 of 5
+2024-05-14T14:02:53.177Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/orders 200 136ms request_id=8e62b1b3-5421-c499-25b0-de5a8b923123
+2024-05-14T14:02:53.446Z ERROR api-7d9f5c8b46-x2k4q db: connection to 10.0.2.197:5432 timed out after 5209ms
+2024-05-14T14:02:54.191Z WARN  api-7d9f5c8b46-x2k4q pool: retrying checkout attempt 3 of 5
+2024-05-14T14:02:54.887Z ERROR api-7d9f5c8b46-q7w2e db: connection to 10.0.4.37:5432 timed out after 5158ms
+2024-05-14T14:02:55.246Z INFO  api-7d9f5c8b46-x2k4q http: GET /healthz 200 40ms request_id=aec3e0a3-b21f-76fe-87ad-5ba5f0d2b4f8
+2024-05-14T14:02:55.680Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 369 keys in 27ms
+2024-05-14T14:02:56.204Z DEBUG api-7d9f5c8b46-q7w2e auth: token for user 12915 validated
+2024-05-14T14:02:56.312Z WARN  api-7d9f5c8b46-m8n3p pool: retrying checkout attempt 1 of 5
+2024-05-14T14:02:57.139Z INFO  api-7d9f5c8b46-x2k4q cache: refreshed 137 keys in 23ms
+2024-05-14T14:02:57.561Z ERROR api-7d9f5c8b46-q7w2e http: POST /api/v1/orders 503 request_id=403ccb08-98f2-245c-5222-0e9a9cc1ded3 upstream unavailable
+2024-05-14T14:02:58.188Z INFO  api-7d9f5c8b46-q7w2e cache: refreshed 372 keys in 36ms
+2024-05-14T14:02:58.677Z INFO  api-7d9f5c8b46-m8n3p cache: refreshed 225 keys in 9ms
+2024-05-14T14:02:59.512Z INFO  api-7d9f5c8b46-x2k4q http: GET /api/v1/orders 200 56ms request_id=0baba573-1aa2-07ee-3603-437aa3133bf6
+2024-05-14T14:02:59.581Z ERROR api-7d9f5c8b46-m8n3p http: POST /api/v1/orders 503 request_id=2c0e07e3-7616-7826-d17c-f2268b8a440c upstream unavailable
